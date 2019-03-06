@@ -6,12 +6,10 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-body {
-   width: 50px;
-  }
 
 body {
   font-family: "Consolas", menlo ;
+  width: 500px;
 }
 
 
