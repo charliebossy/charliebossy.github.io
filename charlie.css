@@ -12,8 +12,16 @@ body {
 margin: 35px;
 }
 
-a {  color: white;
+a:link {
+  color: white;
 }
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
 a:hover {
   color: yellow;
 }
