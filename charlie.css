@@ -13,6 +13,7 @@ margin: 35px;
 }
 
 a {  color: white;
+  hover { COLOR: yellow; TEXT-DECORATION: none; font-weight: none }
 }
 
 p {
