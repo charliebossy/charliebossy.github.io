@@ -23,14 +23,14 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: #fff888;
+  color: yellow;
 }
 
 p {
   font-size: 13px;
 }
 ::selection {
-  background-color: #fff888;
+  background-color: #yellow;
 }
 
 .fade-in{
