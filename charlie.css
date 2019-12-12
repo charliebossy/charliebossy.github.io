@@ -3,6 +3,9 @@
 body {   
   background-color: #FF7F50;
 }
+
+.highlightme { background-color:#FFFF00; }
+p { background-color:#FFFFFF; }
  
 body {
   max-width: 500px;
